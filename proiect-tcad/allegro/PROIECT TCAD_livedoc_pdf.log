@@ -1,0 +1,134 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    LIVEDOC PDF EXPORT                                               )
+(                                                                     )
+(    Drawing          : PROIECT TCAD.brd                              )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Sat Jan 18 13:37:48 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Creating page - "Page1"
+
+	Processing Layer Based View - Artworks_TOP at location (300, 88), view scale = 2.000000
+	Layer Based View successfully processed.
+
+	Processing Canvas Text at location (568.000000, 614.000000).
+	Canvas Text successfully processed.
+
+	Processing Canvas Text at location (463.000000, 55.000000).
+	Canvas Text successfully processed.
+
+	Processing Title Block at location (594, 641).
+	Title Block successfully processed.
+
+Page - "Page1" successfully processed
+
+Creating page - "Page2"
+
+	Processing Layer Based View - Artworks_BOTTOM at location (302, 78), view scale = 2.000000
+	Layer Based View successfully processed.
+
+	Processing Canvas Text at location (542.000000, 611.000000).
+	Canvas Text successfully processed.
+
+	Processing Canvas Text at location (458.000000, 57.000000).
+	Canvas Text successfully processed.
+
+	Processing Title Block at location (594, 641).
+	Title Block successfully processed.
+
+Page - "Page2" successfully processed
+
+Creating page - "Page3"
+
+	Processing Layer Based View - Artworks_SMTP at location (305, 82), view scale = 2.000000
+	Layer Based View successfully processed.
+
+	Processing Canvas Text at location (555.000000, 612.000000).
+	Canvas Text successfully processed.
+
+	Processing Canvas Text at location (438.000000, 61.000000).
+	Canvas Text successfully processed.
+
+	Processing Title Block at location (594, 641).
+	Title Block successfully processed.
+
+Page - "Page3" successfully processed
+
+Creating page - "Page4"
+
+	Processing Layer Based View - Artworks_SMBT at location (303, 86), view scale = 2.000000
+	Layer Based View successfully processed.
+
+	Processing Canvas Text at location (566.000000, 613.000000).
+	Canvas Text successfully processed.
+
+	Processing Canvas Text at location (430.000000, 61.000000).
+	Canvas Text successfully processed.
+
+	Processing Title Block at location (594, 641).
+	Title Block successfully processed.
+
+Page - "Page4" successfully processed
+
+Creating page - "Page5"
+
+	Processing Layer Based View - Artworks_SSTP at location (301, 78), view scale = 2.000000
+	Layer Based View successfully processed.
+
+	Processing Canvas Text at location (560.000000, 614.000000).
+	Canvas Text successfully processed.
+
+	Processing Canvas Text at location (469.000000, 55.000000).
+	Canvas Text successfully processed.
+
+	Processing Title Block at location (594, 641).
+	Title Block successfully processed.
+
+Page - "Page5" successfully processed
+
+Creating page - "Page6"
+
+	Processing Layer Based View - Views_Assembly Top at location (305, 80), view scale = 2.000000
+	Layer Based View successfully processed.
+
+	Processing Canvas Text at location (516.000000, 615.000000).
+	Canvas Text successfully processed.
+
+	Processing Canvas Text at location (445.000000, 59.000000).
+	Canvas Text successfully processed.
+
+	Processing Title Block at location (594, 641).
+	Title Block successfully processed.
+
+Page - "Page6" successfully processed
+
+Creating page - "Page7"
+
+	Processing Layer Based View - FabDraw_Drill drawing 1-2 at location (460, 477), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Stackup Chart for cross-section PRIMARY at location (38, 111).
+	Stackup Chart successfully processed.
+
+	Processing Stackup Table at location (755, 502).
+	Stackup Table successfully processed.
+
+	Processing Drill Chart - Drill chart 1-2 at location (484, 109).
+	Drill Chart successfully processed.
+
+	Processing Canvas Text at location (535.000000, 753.000000).
+	Canvas Text successfully processed.
+
+	Processing Canvas Text at location (478.000000, 60.000000).
+	Canvas Text successfully processed.
+
+	Processing Title Block at location (594, 641).
+	Title Block successfully processed.
+
+Page - "Page7" successfully processed
+
+C:/Users/grecu/Desktop/Facultate/TCAD/TCAD-laboratoare/TCAD Lab/proiect tcad/allegro/PROIECT TCAD.pdf file generated successfully.

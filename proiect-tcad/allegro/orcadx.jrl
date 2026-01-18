@@ -1,0 +1,162 @@
+\t (00:00:14) orcadx 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:14)     Journal start - Sat Jan 18 13:34:40 2025
+\t (00:00:14)         Host=VICTORLAPTOP User=grecu Pid=9548 CPUs=8
+\t (00:00:14) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:14) 
+\d (00:00:14) Design opened: C:/Users/grecu/Desktop/Facultate/TCAD/TCAD-laboratoare/TCAD Lab/proiect tcad/allegro/PROIECT TCAD.brd
+\i (00:00:14) trapsize 9945
+\i (00:00:18) trapsize 10109
+\i (00:00:22) trapsize 10279
+\i (00:00:23) QtSignal 3DBoardLevelModelMapper TableModeChooser CurrentIndexChanged 0
+\i (00:00:23) QtSignal 3DBoardLevelModelMapper RotationX CurrentIndexChanged "0.0"
+\i (00:00:23) QtSignal 3DBoardLevelModelMapper RotationY CurrentIndexChanged "0.0"
+\i (00:00:23) QtSignal 3DBoardLevelModelMapper RotationZ CurrentIndexChanged "0.0"
+\i (00:00:25) QtSignal ShapeAddModes ShapeCreatorShapeType CurrentIndexChanged 0
+\i (00:00:25) QtSignal ShapeAddModes_LineWidget ShapeCreatorLineAngleLock CurrentIndexChanged 0
+\i (00:00:25) QtSignal ShapeAddModes_ArcWidget ShapeCreatorArcAngleLock CurrentIndexChanged 0
+\i (00:00:25) QtSignal ShapeAddModes_PolygonWidget ShapeCreatorEdgeType CurrentIndexChanged 0
+\i (00:00:25) QtSignal ShapeAddModes_RectangleWidget ShapeCreatorRectangleType CurrentIndexChanged +
+\i (00:00:25) QtSignal 0
+\i (00:00:25) QtSignal ShapeAddModes_CircleWidget ShapeCreatorCircleType CurrentIndexChanged 0
+\i (00:00:26) QtSignal UCP_Add_Text AddText_TextBlock_SpinBox valueChanged 1
+\i (00:00:26) updateport VisibilityPane
+\i (00:00:26) updateport PropPane
+\i (00:00:26) ucpedit 
+\i (00:00:26) updateport VisibilityPane
+\i (00:01:58) ucp_single_exports 
+\t (00:02:44) Loading mfg.cxt 
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\t (00:03:10) No activity found for this thread
+\w (00:03:19) WARNING(SPMHMF-34): Cannot read the file 'nc_param.txt' ... using defaults.
+\t (00:03:19) Hole grand total: 0
+\t (00:03:22) C:/Users/grecu/Desktop/Facultate/TCAD/TCAD-laboratoare/TCAD Lab/proiect tcad/allegro/PROIECT TCAD.pdf file generated successfully.
+
+\i (00:03:50) updateport ReportsPane
+\i (00:03:50) updateport SearchPane
+\i (00:03:50) updateport VisibilityPane
+\i (00:03:50) updateport PropPane
+\i (00:03:50) ucpedit 
+\i (00:03:50) updateport VisibilityPane
+\i (00:03:51) zoom out 1 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom out 321.9666 146.1107
+\i (00:03:51) trapsize 20558
+\i (00:03:53) drag_start grid 251.6349 297.4206
+\i (00:03:53) drag_stop 468.7316 152.2783
+\i (00:03:54) ucp_shape_edit_mode 
+\i (00:03:54) ucp_shape_convert 
+\i (00:03:54) updateport ReportsPane
+\i (00:03:54) updateport SearchPane
+\i (00:03:54) updateport VisibilityPane
+\i (00:03:54) updateport PropPane
+\i (00:03:54) ucpedit 
+\i (00:03:56) ucp_delete 
+\i (00:03:56) updateport ReportsPane
+\i (00:03:56) updateport SearchPane
+\i (00:03:56) updateport VisibilityPane
+\i (00:03:56) updateport PropPane
+\i (00:03:56) ucpedit 
+\i (00:03:58) pick grid 171.8683 345.5273
+\t (00:03:58) last pick:  171.8683 345.5273
+\i (00:03:58) updateport VisibilityPane
+\i (00:03:59) QtSignal UCPTopQuickAccessToolbar UCPQuickAccessToolbar_Grids mouseReleased
+\i (00:04:01) QtSignal VisibilityLayersManufacturingWidget VisLayerUserDefinedManufacturingTable layerVisibilityChanged +
+\i (00:04:01) QtSignal "Nclegend-1-2" 0
+\i (00:04:01) updateport ReportsPane
+\i (00:04:01) updateport SearchPane
+\i (00:04:01) updateport VisibilityPane
+\i (00:04:01) updateport PropPane
+\i (00:04:02) QtSignal VisibilityLayersWidget VisLayerManufacturingAccordion headerClicked 1
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in 257.3912 189.2834
+\i (00:04:07) trapsize 10279
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in 257.3912 189.2835
+\i (00:04:07) trapsize 5140
+\i (00:04:08) roam start
+\i (00:04:08) roam x -7
+\i (00:04:08) roam y 1
+\i (00:04:08) roam x -13
+\i (00:04:08) roam x -70
+\i (00:04:08) roam y 15
+\i (00:04:08) roam x -20
+\i (00:04:08) roam y 5
+\i (00:04:08) roam x -22
+\i (00:04:08) roam y 11
+\i (00:04:08) roam x -29
+\i (00:04:08) roam y 15
+\i (00:04:08) roam x -21
+\i (00:04:08) roam y 8
+\i (00:04:08) roam x -114
+\i (00:04:08) roam y 27
+\i (00:04:08) roam x -10
+\i (00:04:08) roam y 5
+\i (00:04:08) roam x -49
+\i (00:04:08) roam y 13
+\i (00:04:08) roam x -11
+\i (00:04:08) roam y 1
+\i (00:04:08) roam x -18
+\i (00:04:08) roam x -42
+\i (00:04:08) roam y 7
+\i (00:04:08) roam x -25
+\i (00:04:08) roam x -11
+\i (00:04:08) roam y 2
+\i (00:04:08) roam x -4
+\i (00:04:08) roam x -5
+\i (00:04:08) roam x -9
+\i (00:04:08) roam y 1
+\i (00:04:08) roam x -11
+\i (00:04:08) roam x -9
+\i (00:04:08) roam x -6
+\i (00:04:08) roam x -4
+\i (00:04:08) roam x -1
+\i (00:04:08) roam end
+\i (00:04:09) roam start
+\i (00:04:09) roam y 4
+\i (00:04:09) roam x -7
+\i (00:04:09) roam y 18
+\i (00:04:09) roam x -2
+\i (00:04:09) roam y 7
+\i (00:04:09) roam x -6
+\i (00:04:09) roam y 14
+\i (00:04:09) roam x -14
+\i (00:04:09) roam y 16
+\i (00:04:09) roam x -5
+\i (00:04:09) roam y 14
+\i (00:04:09) roam x -5
+\i (00:04:09) roam y 9
+\i (00:04:09) roam x -4
+\i (00:04:09) roam y 6
+\i (00:04:09) roam x -2
+\i (00:04:09) roam y 4
+\i (00:04:09) roam x -2
+\i (00:04:09) roam y 2
+\i (00:04:09) roam y 1
+\i (00:04:09) roam x -1
+\i (00:04:09) roam y 2
+\i (00:04:09) roam end
+\i (00:04:13) QtSignal MainCanvas CplPrefDialog closed
+\i (00:04:13) QtSignal MainCanvas ImpGrpSel closed
+\i (00:04:13) QtSignal MainCanvas CplGrpSel closed
+\i (00:04:13) QtSignal MainCanvas ImpPrefDialog closed
+\t (00:04:19)     Journal end - Sat Jan 18 13:38:45 2025

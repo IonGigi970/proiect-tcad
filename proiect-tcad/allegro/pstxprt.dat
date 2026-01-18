@@ -1,0 +1,155 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Jan-02-2025 at 16:19:06 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PROIECT TCAD';
+ POST_TIME='Sep  4 2024 20:54:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPCK05_10NF':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS418@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins418@discrete.\c.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins418@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,410)',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_0_DO35_1N914':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS377@PROIECT TCAD.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins377@\proiect tcad\.\diode_0.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins377@\proiect tcad\.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,330)',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_1_DO35_1N914':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS2623@PROIECT TCAD.DIODE_1.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins2623@\proiect tcad\.\diode_1.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins2623@\proiect tcad\.\diode_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,480)',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_3_CAP196_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS936@PROIECT TCAD.LED_3.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins936@\proiect tcad\.\led_3.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins936@\proiect tcad\.\led_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,400)',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_2_CAP196_LED':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS920@PROIECT TCAD.LED_2.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins920@\proiect tcad\.\led_2.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins920@\proiect tcad\.\led_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,390)',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_XY301VA_2PIN_CON1':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS1960@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins1960@connector.\con2.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins1960@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,110)',
+ SECTION='';
+
+PART_NAME
+ P1 'PT15NV02105A2020S_4_PT15NV02105A2020S_1MEG':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS7562@PROIECT TCAD.PT15NV02105A2020S_4.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins7562@\proiect tcad\.\pt15nv02105a2020s_4.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins7562@\proiect tcad\.\pt15nv02105a2020s_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,400)',
+ SECTION='';
+
+PART_NAME
+ R1 'R2_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS264@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins264@discrete.\r2.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins264@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,330)',
+ SECTION='';
+
+PART_NAME
+ R2 'R2_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS296@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins296@discrete.\r2.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins296@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,480)',
+ SECTION='';
+
+PART_NAME
+ R3 'R2_RES400_470':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS312@DISCRETE.R2.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins312@discrete.\r2.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins312@discrete.\r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,280)',
+ SECTION='';
+
+PART_NAME
+ U1 '4001_1_DIP14_3_4001':;
+
+SECTION_NUMBER 1
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS1668@PROIECT TCAD.4001_1.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins1668@\proiect tcad\.\4001_1.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins1668@\proiect tcad\.\4001_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,270)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS1709@PROIECT TCAD.4001_1.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins1709@\proiect tcad\.\4001_1.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins1709@\proiect tcad\.\4001_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,270)',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS1750@PROIECT TCAD.4001_1.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins1750@\proiect tcad\.\4001_1.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins1750@\proiect tcad\.\4001_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,270)',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@PROIECT TCAD.SCHEMATIC1(SCH_1):INS1791@PROIECT TCAD.4001_1.NORMAL(CHIPS)':
+ C_PATH='@\proiect tcad\.schematic1(sch_1):ins1791@\proiect tcad\.\4001_1.normal\(chips)',
+ P_PATH='@\proiect tcad\.schematic1(sch_1):page1_ins1791@\proiect tcad\.\4001_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,270)',
+ SECTION='D';
+
+END.

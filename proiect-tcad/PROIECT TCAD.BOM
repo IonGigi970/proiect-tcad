@@ -1,0 +1,22 @@
+Proiect TCAD - Amuzament Colorat  Revised: Thursday, January 02, 2025
+1          Revision: 1.0.0
+
+Facultatea de Electronica, Telecomunicatii si Tehnologia Informatiei
+Coordonator: Prof. Dr. Norocel Dragos Codreanu
+Grecu Victor, Tarlungeanu Casian-Florin
+Grupa 422E, Echipa E6
+
+
+Bill Of Materials        January 2,2025      15:02:35	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	10nF
+2	2	D1,D2	1N914
+3	2	D3,D4	LED
+4	1	J1	CON1
+5	1	P1	1meg
+6	2	R1,R2	1K
+7	1	R3	470
+8	1	U1	4001

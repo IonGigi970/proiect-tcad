@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : PROIECT TCAD.brd                              )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Thu Jan  2 14:18:14 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Placing page "1"
+	ERROR:   Cannot place symbol:  VR1 / PT15NV02105A2020S_1_PT15NV02105A2020S_PT15NV02105A2020S / PT15NV02105A2020S
+		 due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+	Placed symbol:  D3 / LED_0_CAP196_LED / CAP196 at (9765.74 12817.68)
+	Placed symbol:  D4 / LED_1_CAP196_LED / CAP196 at (9535.74 12817.68)
+	Placed symbol:  C1 / C_CAPCK05_10NF / CAPCK05 at (9255.74 12423.03)
+	Placed symbol:  D1 / DIODE_0_DO35_1N914 / DO35 at (9145.74 13027.68)
+	Placed symbol:  D2 / DIODE_1_DO35_1N914 / DO35 at (9145.74 11600.00)
+	Placed symbol:  J1 / CON2_XY301VA_2PIN_CON1 / XY301VA_2PIN at (7750.00 14452.16)
+	Placed symbol:  R1 / R2_RES400_1K / RES400 at (9035.74 13027.68)
+	Placed symbol:  R2 / R2_RES400_1K / RES400 at (9035.74 11600.00)
+	Placed symbol:  R3 / R2_RES400_470 / RES400 at (9365.74 13852.16)
+	Placed symbol:  U1 / 4001_1_DIP14_3_4001 / DIP14_3 at (8010.00 14152.68)
+
+Placed 10 of 11 symbols.

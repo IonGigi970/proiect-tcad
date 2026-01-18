@@ -1,0 +1,24 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "D3",
+			"C_PATH" : "@\\proiect tcad\\.schematic1(sch_1):ins936@\\proiect tcad\\.\\led_0.normal\\(chips)",
+			"Logical" : "LED_0_CAP196_LED",
+			"Physical" : "LED_0_CAPCK05_LED"
+		},
+		{
+			"Name" : "D4",
+			"C_PATH" : "@\\proiect tcad\\.schematic1(sch_1):ins920@\\proiect tcad\\.\\led_1.normal\\(chips)",
+			"Logical" : "LED_1_CAP196_LED",
+			"Physical" : "LED_1_CAPCK05_LED"
+		}
+	],
+	"Net" : [],
+	"Connection" : []
+}

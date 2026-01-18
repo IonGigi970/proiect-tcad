@@ -1,0 +1,70 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : PROIECT TCAD.brd                              )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Fri Jan 17 18:34:18 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Jan 17 18:34:18 2025				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/grecu/Desktop/Facultate/TCAD/TCAD-laboratoare/TCAD Lab/proiect tcad/allegro/PROIECT TCAD.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'YES'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/grecu/AppData/Local/Temp/#Taaaaaz57228.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_24.1/share/local/pcb/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/allegrolib/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/pcb_lib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_24.1/share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'MTG125'  symbol refreshed successfully.
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+------ Pad Stack Refresh Messages ------
+
+'PAD125'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

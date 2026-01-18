@@ -1,0 +1,31 @@
+\t (00:00:03) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Jan 18 13:42:28 2025
+\t (00:00:03)         Host=VICTORLAPTOP User=grecu Pid=11684 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\orcadx_24.1\tools\bin\allegro.exe C:\Users\grecu\Desktop\Proiect E6 Grupa 422E\Fisiere fabricatie\proiect tcad\allegro\PROIECT TCAD.brd
+\t (00:00:03) 
+\t (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PROIECT TCAD"
+\d (00:00:07) Design opened: C:/Users/grecu/Desktop/Proiect E6 Grupa 422E/Fisiere fabricatie/proiect tcad/allegro/PROIECT TCAD.brd
+\i (00:00:07) trapsize 9525
+\i (00:00:07) trapsize 9870
+\i (00:00:07) trapsize 9525
+\i (00:00:08) trapsize 8192
+\i (00:00:08) trapsize 8192
+\i (00:00:08) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 236.5139 184.3084
+\i (00:00:10) trapsize 4096
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 239.2994 185.5373
+\i (00:00:10) trapsize 2048
+\i (00:00:12) exit 
+\t (00:00:14) Lic Summary:
+[13:42:38.375712] Cdslmd servers:C:\Users\grecu\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[13:42:38.912000] Feature usage summary:
+[13:42:38.912000] OrCAD_X_PCB_Professional_Plus
+[13:42:38.912000] OrCAD_X_Professional_Plus
+
+\t (00:00:14)     Journal end - Sat Jan 18 13:42:38 2025

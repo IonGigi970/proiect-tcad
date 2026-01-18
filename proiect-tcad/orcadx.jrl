@@ -1,0 +1,16 @@
+\t (00:00:04) orcadx 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Thu Jan  2 16:19:14 2025
+\t (00:00:04)         Host=VICTORLAPTOP User=grecu Pid=9704 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\unison.exe -layout -orcadx -mpssession grecu -proj c:\users\grecu\desktop\facultate\tcad\tcad-laboratoare\tcad lab\proiect tcad\proiect tcad.opj "C:/Users/grecu/Desktop/Facultate/TCAD/TCAD-laboratoare/TCAD Lab/proiect tcad/allegro/PROIECT TCAD.brd 
+\t (00:00:04) 
+\t (00:00:07) Loading axlcore.cxt 
+\t (00:00:07) Starting new design...
+\i (00:00:10) trapsize 10500
+\e (00:00:11) Unmatched quote
+\e (00:00:11) There is error while opening the design "c:/users/grecu/desktop/facultate/tcad/tcad-laboratoare/tcad lab/proiect tcad/proiect tcad.opj "C:/Users/grecu/Desktop/Facultate/TCAD/TCAD-laboratoare/TCAD Lab/proiect tcad/allegro/PROIECT TCAD.brd"
+
+\i (00:00:11) ucpedit 
+\i (00:00:15) opencd 'C:/Users/grecu/Desktop/Facultate/TCAD/TCAD-laboratoare/TCAD Lab/proiect tcad/allegro/PROIECT TCAD.brd' 
+\t (00:00:15) Opening existing design...
+\i (00:00:15) trapsize 11869
+\t (00:00:16)     Journal end - Thu Jan  2 16:19:25 2025

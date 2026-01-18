@@ -1,0 +1,16 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!C:/USERS/GRECU/DESKTOP/FACULTATE/TCAD/TCAD-LABORATOARE/TCAD LAB/PROIECT TCAD/allegro/proiect tcad.brd!Thu Jan  2 13:28:19 2025!0.00!0.00!21000.00!17000.00!0.01!mils!PROIECT TCAD!10.400000 mil!2!UP TO DATE!
+S!@\proiect tcad\.schematic1(sch_1):ins418@discrete.\c.normal\(chips)!C_CAPCK05_10NF!C1!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins377@\proiect tcad\.\diode_0.normal\(chips)!DIODE_0_DO35_1N914!D1!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins2623@\proiect tcad\.\diode_1.normal\(chips)!DIODE_1_DO35_1N914!D2!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins936@\proiect tcad\.\led_0.normal\(chips)!LED_0_CAPCK05_LED!D3!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins920@\proiect tcad\.\led_1.normal\(chips)!LED_1_CAPCK05_LED!D4!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins1960@connector.\con2.normal\(chips)!CON2_XY301VA_2PIN_CON1!J1!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins350@discrete.\pot.normal\(chips)!POT_PT15NV02105A2020S_1MEG!P1!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins264@discrete.\r2.normal\(chips)!R2_RES400_1K!R1!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins296@discrete.\r2.normal\(chips)!R2_RES400_1K!R2!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins312@discrete.\r2.normal\(chips)!R2_RES400_470!R3!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins1668@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!U1!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins1709@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!U1!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins1750@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!U1!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@\proiect tcad\.schematic1(sch_1):ins1791@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!U1!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

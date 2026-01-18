@@ -1,0 +1,10 @@
+\t (00:00:01) padstack_editor 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Jan 17 17:28:34 2025
+\t (00:00:01)         Host=VICTORLAPTOP User=grecu Pid=61516 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession grecu -symbol
+\t (00:00:01) 
+\d (00:00:10) QtSignal MainWindow Open triggered
+\d (00:01:14) QtFillin OK
+\e (00:01:14) Illegal file extension in 'C:/Cadence/OrCADX_24.1/share/pcb/pcb_lib/symbols/mtg125.dra'. Unable to open specified file.
+\d (00:01:38) QtSignal MainWindow Exit triggered
+\t (00:01:38)     Journal end - Fri Jan 17 17:30:11 2025

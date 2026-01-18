@@ -1,0 +1,86 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : PROIECT TCAD.brd                              )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Sat Jan 18 13:37:10 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Current film records are deleted and saved as an attachment to the design.
+
+Creating new film records in the design as per configuration file
+	TOP
+	BOTTOM
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	NCLEGEND-1-2
+	ASSYTP
+	ASSYBT
+
+Processing group :Fabrication_Gerber
+
+	Executing command :Artwork
+		Successfully generated outputs
+
+	Executing command :NC Drill - NC Route
+		Successfully generated outputs
+
+	Executing command :IPC-D-356 Netlist
+		There was an error while generating outputs.
+
+	Executing command :Backdrill Report
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+	Executing command :Artwork Film Record PDFs
+		Successfully generated outputs
+
+All outputs for export group Fabrication_Gerber are added to PROIECT TCAD_Fabrication_Gerber.zip
+
+Processing group :Assembly
+
+	Executing command :IPC2581 Database (Assembly)
+		Successfully generated outputs
+
+	Executing command :Artwork
+		Successfully generated outputs
+
+	Executing command :Assembly Drawing View PDFs
+		Successfully generated outputs
+
+	Executing command :Fabmaster Extract File
+		There was an error while generating outputs.
+
+	Executing command :BOM Report
+		Successfully generated outputs
+
+	Executing command :Component Placement Report
+		Successfully generated outputs
+
+	Executing command :Testpoint Report
+		Successfully generated outputs
+
+	Executing command :Testpoint NC Data File
+		Successfully generated outputs
+
+All outputs for export group Assembly are added to PROIECT TCAD_Assembly.zip
+
+Processing group :Livedoc Fabrication and Assembly Documentation
+
+	Executing command :Livedoc Fabrication and Assembly PDF
+		Successfully generated outputs
+
+All outputs for export group Livedoc Fabrication and Assembly Documentation are added to PROIECT TCAD_Livedoc Fabrication and Assembly Documentation.zip
+
+
+Configuration data is saved as an attachment to the design

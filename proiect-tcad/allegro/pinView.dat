@@ -1,0 +1,43 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!C:/USERS/GRECU/DESKTOP/FACULTATE/TCAD/TCAD-LABORATOARE/TCAD LAB/PROIECT TCAD/allegro/proiect tcad.brd!Thu Jan  2 13:28:19 2025!0.00!0.00!21000.00!17000.00!0.01!mils!PROIECT TCAD!10.400000 mil!2!UP TO DATE!
+S!N00795!C1!1!@\proiect tcad\.schematic1(sch_1):ins418@discrete.\c.normal\(chips)!C_CAPCK05_10NF!!!F13!!!!!!!!!!
+S!N00453!C1!2!@\proiect tcad\.schematic1(sch_1):ins418@discrete.\c.normal\(chips)!C_CAPCK05_10NF!!!F13!!!!!!!!!!
+S!N00438!D1!2!@\proiect tcad\.schematic1(sch_1):ins377@\proiect tcad\.\diode_0.normal\(chips)!DIODE_0_DO35_1N914!!!F12!!!!!!!!!!
+S!N00518!D1!1!@\proiect tcad\.schematic1(sch_1):ins377@\proiect tcad\.\diode_0.normal\(chips)!DIODE_0_DO35_1N914!!!F12!!!!!!!!!!
+S!N00453!D2!2!@\proiect tcad\.schematic1(sch_1):ins2623@\proiect tcad\.\diode_1.normal\(chips)!DIODE_1_DO35_1N914!!!F11!!!!!!!!!!
+S!N00518!D2!1!@\proiect tcad\.schematic1(sch_1):ins2623@\proiect tcad\.\diode_1.normal\(chips)!DIODE_1_DO35_1N914!!!F11!!!!!!!!!!
+S!N00970!D3!2!@\proiect tcad\.schematic1(sch_1):ins936@\proiect tcad\.\led_0.normal\(chips)!LED_0_CAPCK05_LED!!!F10!!!!!!!!!!
+S!N00952!D3!1!@\proiect tcad\.schematic1(sch_1):ins936@\proiect tcad\.\led_0.normal\(chips)!LED_0_CAPCK05_LED!!!F10!!!!!!!!!!
+S!N00952!D4!2!@\proiect tcad\.schematic1(sch_1):ins920@\proiect tcad\.\led_1.normal\(chips)!LED_1_CAPCK05_LED!!!F9!!!!!!!!!!
+S!N00970!D4!1!@\proiect tcad\.schematic1(sch_1):ins920@\proiect tcad\.\led_1.normal\(chips)!LED_1_CAPCK05_LED!!!F9!!!!!!!!!!
+S!GND!J1!1!@\proiect tcad\.schematic1(sch_1):ins1960@connector.\con2.normal\(chips)!CON2_XY301VA_2PIN_CON1!!!F8!!!!!!!!!!
+S!+9V!J1!2!@\proiect tcad\.schematic1(sch_1):ins1960@connector.\con2.normal\(chips)!CON2_XY301VA_2PIN_CON1!!!F8!!!!!!!!!!
+S!N00445!P1!1!@\proiect tcad\.schematic1(sch_1):ins350@discrete.\pot.normal\(chips)!POT_PT15NV02105A2020S_1MEG!!!F7!!!!!!!!!!
+S!N00449!P1!3!@\proiect tcad\.schematic1(sch_1):ins350@discrete.\pot.normal\(chips)!POT_PT15NV02105A2020S_1MEG!!!F7!!!!!!!!!!
+S!N00518!P1!2!@\proiect tcad\.schematic1(sch_1):ins350@discrete.\pot.normal\(chips)!POT_PT15NV02105A2020S_1MEG!!!F7!!!!!!!!!!
+S!N00438!R1!1!@\proiect tcad\.schematic1(sch_1):ins264@discrete.\r2.normal\(chips)!R2_RES400_1K!!!F6!!!!!!!!!!
+S!N00445!R1!2!@\proiect tcad\.schematic1(sch_1):ins264@discrete.\r2.normal\(chips)!R2_RES400_1K!!!F6!!!!!!!!!!
+S!N00453!R2!1!@\proiect tcad\.schematic1(sch_1):ins296@discrete.\r2.normal\(chips)!R2_RES400_1K!!!F5!!!!!!!!!!
+S!N00449!R2!2!@\proiect tcad\.schematic1(sch_1):ins296@discrete.\r2.normal\(chips)!R2_RES400_1K!!!F5!!!!!!!!!!
+S!N00828!R3!1!@\proiect tcad\.schematic1(sch_1):ins312@discrete.\r2.normal\(chips)!R2_RES400_470!!!F4!!!!!!!!!!
+S!N00970!R3!2!@\proiect tcad\.schematic1(sch_1):ins312@discrete.\r2.normal\(chips)!R2_RES400_470!!!F4!!!!!!!!!!
+S!+9V!U1!14!@\proiect tcad\.schematic1(sch_1):ins1668@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F3!!!!!!!!!!
+S!+9V!U1!14!@\proiect tcad\.schematic1(sch_1):ins1709@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F2!!!!!!!!!!
+S!+9V!U1!14!@\proiect tcad\.schematic1(sch_1):ins1750@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F1!!!!!!!!!!
+S!+9V!U1!14!@\proiect tcad\.schematic1(sch_1):ins1791@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F0!!!!!!!!!!
+S!GND!U1!7!@\proiect tcad\.schematic1(sch_1):ins1668@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F3!!!!!!!!!!
+S!GND!U1!7!@\proiect tcad\.schematic1(sch_1):ins1709@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F2!!!!!!!!!!
+S!GND!U1!7!@\proiect tcad\.schematic1(sch_1):ins1750@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F1!!!!!!!!!!
+S!GND!U1!7!@\proiect tcad\.schematic1(sch_1):ins1791@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F0!!!!!!!!!!
+S!N00453!U1!1!@\proiect tcad\.schematic1(sch_1):ins1668@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F3!!!!!!!!!!
+S!N00453!U1!2!@\proiect tcad\.schematic1(sch_1):ins1668@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F3!!!!!!!!!!
+S!N00438!U1!3!@\proiect tcad\.schematic1(sch_1):ins1668@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F3!!!!!!!!!!
+S!N00438!U1!5!@\proiect tcad\.schematic1(sch_1):ins1709@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F2!!!!!!!!!!
+S!N00438!U1!6!@\proiect tcad\.schematic1(sch_1):ins1709@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F2!!!!!!!!!!
+S!N00795!U1!4!@\proiect tcad\.schematic1(sch_1):ins1709@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F2!!!!!!!!!!
+S!N00795!U1!8!@\proiect tcad\.schematic1(sch_1):ins1750@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F1!!!!!!!!!!
+S!N00795!U1!9!@\proiect tcad\.schematic1(sch_1):ins1750@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F1!!!!!!!!!!
+S!N00828!U1!10!@\proiect tcad\.schematic1(sch_1):ins1750@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F1!!!!!!!!!!
+S!N00828!U1!12!@\proiect tcad\.schematic1(sch_1):ins1791@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F0!!!!!!!!!!
+S!N00828!U1!13!@\proiect tcad\.schematic1(sch_1):ins1791@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F0!!!!!!!!!!
+S!N00952!U1!11!@\proiect tcad\.schematic1(sch_1):ins1791@\proiect tcad\.\4001_1.normal\(chips)!4001_1_DIP14_3_4001!!!F0!!!!!!!!!!
