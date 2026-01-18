@@ -11,7 +11,7 @@ Repo-ul conține proiectul OrCAD (Capture + PCB Editor/Allegro) în structura or
 
 ## Fișiere principale (OrCAD)
 - **Schematic (Capture):** `proiect-tcad/` (fișiere `.dsn` și `.opj`)
-- **PCB (PCB Editor/Allegro):** `proiect-tcad/` (de obicei în subfolder `allegro/`, fișier `.brd`)
+- **PCB (PCB Editor/Allegro):** `proiect-tcad/` (în subfolder `allegro/`, fișier `.brd`)
 
 ## Footprints / capsule (important)
 ### J1 – footprint custom (pitch 5 mm)
