@@ -8,6 +8,7 @@ Repo-ul conține proiectul OrCAD (Capture + PCB Editor/Allegro) în structura or
 - `pdf/` – documentație + PDF-uri de tip Fab View și Assy Drawing View
 - `fisiere-externe/` – pachet extern (TME/SamacSys) pentru potențiometru + instrucțiuni
 - `fabricatie/` – exporturi finale: Gerber, IPC-2581, Assembly
+- `bom/` – lista cu componente (bill of materials) pentru proiect
 
 ## Fișiere principale (OrCAD)
 - **Schematic (Capture):** `proiect-tcad/` (fișiere `.dsn` și `.opj`)
@@ -29,8 +30,12 @@ Pentru potențiometrul P1 a fost utilizat un model ECAD disponibil public pe pag
 ## Fabricație / Asamblare
 Exporturile finale sunt în `fabricatie/`:
 - `fabricatie/gerber/` – Gerber + drill (Excellon / NC Drill)
-- `fabricatie/ipc2581/` – IPC-2581 (dacă există)
-- `fabricatie/assembly/` – fișiere pentru asamblare (dacă există)
+- `fabricatie/ipc2581/` – IPC-2581 
+- `fabricatie/assembly/` – fișiere pentru asamblare
+
+
+## BOM
+Aici se regăsesc mai multe informații despre componentele utilizate: numărul lor, preț, cantitate minimă, etc.
 
 ## Recomandare
 Păstrează structura din `proiect-tcad/` neschimbată pentru a evita probleme de paths în OrCAD.
